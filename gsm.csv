@@ -17,3 +17,6 @@
 5,sip:10.10.94.16:5060,vt=2,2,ViHAT-VT
 5,sip:10.10.94.31:5060,mb=2,2,ViHAT-MB
 5,sip:10.10.94.18:5060,vn=2,2,ViHAT-VN
+6,sip:10.10.98.16:5060,mb=10,2,autocall
+6,sip:10.10.94.18:5060,vn=10,2,autocall
+6,sip:10.10.94.15:5060,vt=10,2,autocall
