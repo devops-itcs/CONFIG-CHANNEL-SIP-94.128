@@ -21,6 +21,3 @@
 6,sip:10.10.98.16:5060,mb=10,2,autocall
 6,sip:10.10.94.32:5060,vn=10,2,autocall
 6,sip:10.10.94.15:5060,vt=10,2,autocall
-7,sip:10.10.94.13:5060,vt=15,2,Trustconnect
-7,sip:10.10.98.16:5060,mb=10,2,Trustconnect
-7,sip:10.10.94.32:5060,vn=5,2,Trustconnect
