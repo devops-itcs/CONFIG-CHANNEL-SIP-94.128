@@ -1,6 +1,7 @@
 1,sip:10.10.98.18:5060,mb=6,2,Dakao_mobi
 1,sip:10.10.93.16:5060,mb=8,2,Dakao_mobi
 1,sip:10.10.94.32:5060,vn=4,2,Dakao_vina
+1,sip:10.10.94.32:5060,other=4,2,SMN
 1,sip:10.10.96.16:5060,vn=1,2,Dakao_vina
 1,sip:10.10.95.16:5060,vt=5,2,Dakao_Vtel
 1,sip:10.10.98.20:5060,vt=13,2,Dakao_Vtel
