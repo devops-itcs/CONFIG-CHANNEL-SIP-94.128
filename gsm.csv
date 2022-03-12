@@ -9,10 +9,10 @@
 1,sip:10.10.94.11:5060,vt=3,2,SBC_Vtel
 2,sip:10.10.98.15:5060,mb=2,2,SGKV_mobi
 2,sip:10.10.95.23:5060,vn=2,2,SGKV_vina
-2,sip:10.10.95.16:5060,vt=5,2,SGKV_Vtel
+2,sip:10.10.88.19:5060,vt=5,2,SGKV_Vtel
 3,sip:10.10.98.15:5060,mb=5,2,VFS_mobi
 3,sip:10.10.95.23:5060,vn=3,2,VFS_Vina
-3,sip:10.10.89.12:5060,vt=6,2,VFS_Vtel
+3,sip:10.10.88.19:5060,vt=6,2,VFS_Vtel
 4,sip:10.10.93.13:5060,mb=31,2,TACA_mobi
 4,sip:10.10.93.16:5060,mb=9,2,TACA_mobi
 4,sip:10.10.91.14:5060,vt=30,2,TACA_vtel
