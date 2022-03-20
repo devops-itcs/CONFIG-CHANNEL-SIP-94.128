@@ -1,10 +1,9 @@
-1,sip:10.10.94.105:5060,mb=14,0,Dakao_mobi
+1,sip:10.10.94.105:5060,mb=14,0,Dakao_SBC_mobi
 1,sip:10.10.92.13:5060,vn=4,2,Dakao_vina
 1,sip:10.10.96.16:5060,vn=1,2,Dakao_vina
 1,sip:10.10.95.16:5060,vt=5,2,Dakao_vtel
 1,sip:10.10.98.20:5060,vt=10,2,Dakao_vtel
 1,sip:10.10.96.21:5060,hphone=5,2,Dakao_hphone
-1,sip:10.10.94.105:5060,mb=3,0,SBC_mobi
 1,sip:10.10.96.16:5060,vn=3,2,SBC_vina
 1,sip:10.10.94.11:5060,vt=3,2,SBC_Vtel
 2,sip:10.10.94.105:5060,mb=2,0,SGKV_mobi
