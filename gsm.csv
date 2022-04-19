@@ -1,5 +1,5 @@
 1,sip:10.10.92.152:5080,mb=17,0,Dakao_SBC_mobi
-1,sip:10.10.92.13:5060,vn=5,2,Dakao_vina
+1,sip:10.10.92.25:5060,vn=5,2,Dakao_vina
 1,sip:10.10.88.16:5060,vt=18,2,Dakao_vtel
 1,sip:10.10.96.16:5060,vn=3,2,SBC_vina
 2,sip:10.10.92.152:5080,mb=2,0,SGKV_mobi
@@ -8,8 +8,8 @@
 3,sip:10.10.92.152:5080,mb=2,0,VFS_mobi
 3,sip:10.10.95.23:5060,vn=2,2,VFS_Vina
 3,sip:10.10.88.16:5060,vt=5,2,VFS_Vtel
-4,sip:10.10.93.21:5060,mb=31,2,Taca_mobi
-4,sip:10.10.98.16:5060,mb=8,2,Taca_mobi
+4,sip:10.10.93.21:5060,mb=26,2,Taca_mobi
+4,sip:10.10.98.16:5060,mb=14,2,Taca_mobi
 4,sip:10.10.92.34:5060,mb=12,2,Taca_mobi
 4,sip:10.10.95.20:5060,vt=30,2,TACA_vtel
 4,sip:10.10.91.15:5060,vt=17,2,TACA_vtel
