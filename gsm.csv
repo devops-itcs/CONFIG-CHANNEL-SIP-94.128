@@ -9,8 +9,8 @@
 3,sip:10.10.92.121:5060,mb=2,0,VFS_mobi
 3,sip:10.10.96.16:5060,vn=2,2,VFS_Vina
 3,sip:10.10.88.16:5060,vt=5,2,VFS_Vtel
-4,sip:10.10.93.21:5060,mb=32,2,Taca_mobi
-4,sip:10.10.97.24:5060,mb=6,2,Taca_mobi
+4,sip:10.10.93.21:5060,mb=25,2,Taca_mobi
+4,sip:10.10.97.24:5060,mb=13,2,Taca_mobi
 4,sip:10.10.92.13:5060,vt=26,2,TACA_vtel
 4,sip:10.10.91.15:5060,vt=13,2,TACA_vtel
 4,sip:10.10.95.20:5060,vt=30,2,TACA_vtel
